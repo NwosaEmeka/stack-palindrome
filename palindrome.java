@@ -13,7 +13,7 @@ public class symetrical {
 			st.push(word.charAt(i));
 		}
 		
-		for(int j = 0; j<word.length(); j++){
+		while(!st.isEmpty()){
 			newword += st.pop();
 		}
 		
