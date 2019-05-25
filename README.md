@@ -1,1 +1,1 @@
-Checking Palindrome string in Java using java.util.Stack 
+**Checking Palindrome string using java.util.Stack**
